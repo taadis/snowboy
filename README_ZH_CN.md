@@ -257,6 +257,17 @@ SWIG将生成一个_snowboydetect.so文件和一个简单（但难以阅读）�
 
 如果不能make，请适配`swig/Python`中的Makefile到您自己的系统设置。
 
+## 编译Python3 Wrapper
+
+```
+cd swig/Python3
+make
+```
+
+SWIG将生成一个_snowboydetect.so文件和一个简单（但难以阅读）的python 封装snowboydetect.py。
+
+如果不能make，请适配`swig/Python3`中的Makefile到您自己的系统设置。
+
 ## 编译GO Warpper
 
       cd examples/Go
