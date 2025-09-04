@@ -53,3 +53,7 @@ Snowboy.pm
 /dist
 **/snowboy.egg-info
 /.idea
+
+# Python venv .venv
+venv/
+.venv/
