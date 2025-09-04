@@ -374,6 +374,12 @@ Perl示例包括使用KITT.AI RESTful API训练个人唤醒词，在检测到唤
 
 请参阅[Full Documentation](http://docs.kitt.ai/snowboy)。
 
+## 在线训练
+
+> 生成个人热词.pmdl
+
+- [https://snowboy.hahack.com/](https://snowboy.hahack.com/)
+
 ## 更改日志
 
 **v1.3.0, 2/19/2018**
