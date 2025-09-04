@@ -1,6 +1,7 @@
 # Snowboy Hotword Detection
 
-Forked from https://github.com/Kitt-AI/snowboy
+~~Forked from https://github.com/Kitt-AI/snowboy~~
+Forked from https://github.com/seasalt-ai/snowboy
 
 Version: 1.3.0 (2/19/2018)
 
