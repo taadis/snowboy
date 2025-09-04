@@ -57,3 +57,6 @@ Snowboy.pm
 # Python venv .venv
 venv/
 .venv/
+
+# Docker Compose
+.env
